@@ -8,6 +8,12 @@ setuptools.setup(
     url = 'https://github.com/Kwon-Oh-Jae/package.git',
     download_url = 'https://github.com/Kwon-Oh-Jae/package.git',
     packages = ['mycalc'],
+    install_requires=[
+    'pandas',
+    'numpy',
+    'matplotlib',
+    'scipy',
+  ],
     classifiers= [
       "Programming Language :: Python :: 3"
     ]
