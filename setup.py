@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name = 'kojcalc',
+    name = 'ojcalc',
     version = '0.0.1',
     description = 'nice calculator',
     author = 'ojkwon',
